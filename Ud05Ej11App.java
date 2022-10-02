@@ -2,7 +2,7 @@ package ud05ej11;
 
 import javax.swing.JOptionPane;
 
-public class Ud05Ej11 {
+public class Ud05Ej11App {
 
 	public static void main(String[] args) {
 		String dia = JOptionPane.showInputDialog("Introduce día de la semana");
